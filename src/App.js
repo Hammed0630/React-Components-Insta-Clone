@@ -40,7 +40,7 @@ const App = () => {
 
   return (
     <div className="App">
-      {<SearchBar/>}
+      {<SearchBar />}
       {<Posts posts={posts} likePost={likePost}/>}
     </div>
   );
