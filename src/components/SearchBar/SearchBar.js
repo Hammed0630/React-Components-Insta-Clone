@@ -5,6 +5,7 @@ import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 import { faHeart, faCircle, faCompass } from '@fortawesome/free-regular-svg-icons';
 import "./SearchBar.css";
 
+
 const SearchBar = (props) => {
   return (
     <div className="search-bar-wrapper">
@@ -31,5 +32,7 @@ const SearchBar = (props) => {
     </div>
   );
 };
+
+
 
 export default SearchBar;
