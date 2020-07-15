@@ -54,6 +54,22 @@ const dummyData = [
             },
         ],
     },
+
+    {
+        id: 500,
+        username: "hammed",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: "https://images.unsplash.com/photo-1531012451721-432c0ae74527?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+        likes: 10007,
+        timestamp: "July 19th 2020, 03:12:09 pm",
+        comments: [
+            {
+                id: 360,
+                username: "chrisadams",
+                text: "nice!!!",
+            },
+        ],
+},
 ];
 
 export default dummyData;
